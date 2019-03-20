@@ -39,4 +39,4 @@ Worker 1: [3 - 5]
 Worker 2: [6 - 7]
 ```
 
-So TODO_LIST[0], TODO_LIST[3], and TODO_LIST[6] should be scheduled to be the first commands to execute in parallel.
+So `TODO_LIST[0]`, `TODO_LIST[3]`, and `TODO_LIST[6]` should be scheduled to be the first commands to execute in parallel.
