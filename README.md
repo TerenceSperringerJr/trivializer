@@ -1,6 +1,11 @@
 # Trivializer #
 Run lines of system commands in parallel via master-and-worker POSIX threads
 
+## Building ##
+### Linux ###
+### Ubuntu subsystem for Windows 10 ###
+Run `make`
+
 ## Usage ##
 `trivializer.exe [todo_file] [# of processes]`
 
